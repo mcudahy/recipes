@@ -10,8 +10,10 @@ categories: entree
 ## Ingredients
 - Burger buns, baguette or bagel
 - Pastrami meat
-- Onios and Tomato Slices
+- Onions and Tomato Slices
 - Banana
+- Lettuce
+- Swiss cheese
 
 ## Tool
  - knife
